@@ -1,6 +1,13 @@
+<<<<<<< HEAD
+beernesh is boomer - vanakkam da mapla theni la irundhu
+
+coming from nanthon branch
+i am beer branch - bernesh is a fool
+=======
 he da loosu payale
     
 hey yaaruda nee gunda!
+>>>>>>> main
 beer na boomer from git
 
 
